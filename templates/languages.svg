@@ -26,8 +26,8 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: #e5e5f0;
-  fill: #e5e5f0;
+  color: #6796e5;
+  fill: #6796e5;
 }
 
 ul {
